@@ -10,6 +10,12 @@
 ## 보존된 기타 커뮤 목록
 * [ranko3rd](etc/commu/ranko3rd)
 * [ranko5th](etc/commu/ranko5th)
+* [Last_Cinderella_ep1](etc/commu/Last_Cinderella_ep1)
+* [Last_Cinderella_ep2](etc/commu/Last_Cinderella_ep2)
+* [Last_Cinderella_ep3](etc/commu/Last_Cinderella_ep3)
+* [Last_Cinderella_ep4](etc/commu/Last_Cinderella_ep4)
+* [Last_Cinderella_ep5](etc/commu/Last_Cinderella_ep5)
+* [Last_Cinderella_ep6](etc/commu/Last_Cinderella_ep6)
 
 ## 보존된 푸치 프로필 목록
 * [rankokaedekanade(incomp)](etc/puchi/rankokaedekanade(incomp))
