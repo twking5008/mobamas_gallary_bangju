@@ -5,12 +5,6 @@
 * [vet_trainer](idols/vet_trainer)
 * [master_trainer](idols/master_trainer)
 * [rookie_trainer](idols/rookie_trainer)
-* [ranko](idols/ranko)
-* [fumika](idols/fumika)
-* [kaede](idols/kaede)
-* [kako](idols/kako)
-* [minami](idols/minami)
-* [kanade](idols/kanade)
 
 ## 보존된 기타 커뮤 목록
 * [ranko3rd](etc/commu/ranko3rd)
@@ -22,5 +16,3 @@
 * [Last_Cinderella_ep5](etc/commu/Last_Cinderella_ep5)
 * [Last_Cinderella_ep6](etc/commu/Last_Cinderella_ep6)
 
-## 보존된 푸치 프로필 목록
-* [rankokaedekanade(incomp)](etc/puchi/rankokaedekanade(incomp))
